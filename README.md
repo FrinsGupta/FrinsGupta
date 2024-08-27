@@ -8,4 +8,8 @@ I am a dedicated Full-Stack Developer with a strong background in building scala
 
 🔭 I’m currently working on WebSocket technology to enable seamless communication and data synchronization across users.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frinsgupta&show_icons=true&locale=en" alt="frinsgupta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frinsgupta&" alt="frinsgupta" /></p>
+
 Thank you for visiting my profile, and I look forward to collaborating on exciting web projects.
