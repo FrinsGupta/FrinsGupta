@@ -1,7 +1,7 @@
 FrinsGupta/README.md
 ## Hi there 👋, I am Prince Gupta
 
-I am a passionate Software Developer with expertise in the AI and Fintech space. I have a deep interest in Web3 development, and I've built some amazing tools that have garnered attention, such as RadarFi and VoteX.
+**I am a passionate Software Developer with expertise in the AI and Fintech space. I have a deep interest in Web3 development, and I've built some amazing tools that have garnered attention, such as RadarFi and VoteX.
 
 <!--
 **FrinsGupta/FrinsGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
