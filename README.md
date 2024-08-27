@@ -6,7 +6,7 @@ I am a dedicated Full-Stack Developer with a strong background in building scala
 
 🌱 Lifelong Learner: As a lifelong learner, I believe in the importance of continuous improvement and regularly contribute to open-source projects. My commitment to growth drives me to share knowledge and mentor aspiring developers, helping them navigate the complexities of full-stack development.
 
-🔧 Current Focus: I’m currently working on developing a real-time collaborative platform that leverages WebSocket technology to enable seamless communication and data synchronization across users.
+🔭 I’m currently working on WebSocket technology to enable seamless communication and data synchronization across users.
 
 <!--
 **FrinsGupta/FrinsGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
