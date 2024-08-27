@@ -1,7 +1,12 @@
-FrinsGupta/README.md
 ## Hi there 👋, I am Prince Gupta
 
-**I am a passionate Software Developer with expertise in the AI and Fintech space. I have a deep interest in Web3 development, and I've built some amazing tools that have garnered attention, such as RadarFi and VoteX.
+I am a dedicated Full-Stack Developer with a strong background in building scalable applications across various domains. My expertise spans both front-end and back-end technologies, allowing me to create seamless user experiences and robust backend systems.
+
+💻 Full-Stack Enthusiast: Beyond coding, I'm passionate about staying updated with the latest industry trends and best practices. I enjoy experimenting with new frameworks and tools to optimize application performance and maintainability.
+
+🌱 Lifelong Learner: As a lifelong learner, I believe in the importance of continuous improvement and regularly contribute to open-source projects. My commitment to growth drives me to share knowledge and mentor aspiring developers, helping them navigate the complexities of full-stack development.
+
+🔧 Current Focus: I’m currently working on developing a real-time collaborative platform that leverages WebSocket technology to enable seamless communication and data synchronization across users.
 
 <!--
 **FrinsGupta/FrinsGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
