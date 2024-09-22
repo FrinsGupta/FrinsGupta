@@ -3,7 +3,7 @@
 [![Linkedin: PrinceGupta](https://img.shields.io/badge/-Prince%20Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-gupta/)](https://www.linkedin.com/in/prince-gupta-99a11a241/)
 [![Twitter: PrinceGupta](https://img.shields.io/twitter/follow/X_FrinsGupta?style=social)](https://x.com/X_FrinsGupta)
 
-I am a dedicated Full-Stack Developer with a strong background in building scalable applications across various domains. My expertise spans both front-end and back-end technologies, allowing me to create seamless user experiences and robust backend systems
+I am a dedicated Full-Stack Developer with a strong background in building scalable applications across various domains. My expertise spans both front-end and back-end technologies, allowing me to create seamless user experiences and robust backend systems.
 
 💻 Full-Stack Enthusiast: Beyond coding, I'm passionate about staying updated with the latest industry trends and best practices. I enjoy experimenting with new frameworks and tools to optimize application performance and maintainability.
 
